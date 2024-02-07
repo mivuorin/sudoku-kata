@@ -6,7 +6,10 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <Compile Include="UnitTest1.fs" />
+        <Compile Include="Array2D.fs" />
+        <Compile Include="Array2DTest.fs" />
+        <Compile Include="Sudoku.fs" />
+        <Compile Include="SudokuTest.fs" />
     </ItemGroup>
 
     <ItemGroup>
